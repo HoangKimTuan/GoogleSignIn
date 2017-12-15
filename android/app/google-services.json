@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1750923247",
+    "firebase_url": "https://smarthospital-ccaad.firebaseio.com",
+    "project_id": "smarthospital-ccaad",
+    "storage_bucket": "smarthospital-ccaad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1750923247:android:43af44377c6068b3",
+        "android_client_info": {
+          "package_name": "com.smarthospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1750923247-sgetr6m8n2gapoe035dbb9a83d25v612.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI6hKV52UaMTpkMrCItnDdVpczZOOBO_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1750923247:android:920c7769a3f63cd3",
+        "android_client_info": {
+          "package_name": "com.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1750923247-vus6e6p3sdgr2sn6cdbds0l4pb5tuosj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googlesignin",
+            "certificate_hash": "651e3e4d114882c9f849cb78b003c68ab50c0c69"
+          }
+        },
+        {
+          "client_id": "1750923247-sgetr6m8n2gapoe035dbb9a83d25v612.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI6hKV52UaMTpkMrCItnDdVpczZOOBO_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1750923247-sgetr6m8n2gapoe035dbb9a83d25v612.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
